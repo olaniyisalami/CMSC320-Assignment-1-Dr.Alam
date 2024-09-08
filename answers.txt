@@ -8,3 +8,6 @@ Answer: Data science can be applied to many fields from engineering to healthcar
 
 Q3: What is the difference between merging and rebasing?
 Answer: Merging combines changes while rebasing replaces the current branch with the state of another.
+
+Q4: What skills do you hope to improve during this course?
+Answer: Creating projects using data science techniques, better knowledge of pandas
