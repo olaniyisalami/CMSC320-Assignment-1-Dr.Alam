@@ -1,6 +1,10 @@
 Q1: Why might we consider using git?
 
 Answer: It's a useful version control system for working in groups and publishing software.
+
 Q2: What field could data science be applied to?
 
 Answer: Data science can be applied to many fields from engineering to healthcare, anywhere where noticing trends could help to make decisions.
+
+Q3: What is the difference between merging and rebasing?
+Answer: Merging combines changes while rebasing replaces the current branch with the state of another.
