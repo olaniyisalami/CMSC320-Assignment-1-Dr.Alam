@@ -1,0 +1,3 @@
+Q1: Why might we consider using git?
+
+Answer: It's a useful version control system for working in groups and publishing software.
